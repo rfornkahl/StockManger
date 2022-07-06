@@ -1,0 +1,2 @@
+# StockManger
+Stock Application
